@@ -1,1 +1,0 @@
-public class  Main  { } //  Задание №1
