@@ -1,1 +1,1 @@
-public class  Main  { } //  Задание №1
+public class  Main  {  } //  Зфадание №1
