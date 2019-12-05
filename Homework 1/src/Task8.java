@@ -1,13 +1,15 @@
 public class Task8 { //  Задание №8
     public static void main(String[] args) {
-        System.out.println(year(800));
+        System.out.println ("Год " + year(100));
     }
 
     public static String year(int a) {
+        String result;
         if (a % 400 == 0 && a % 4 == 0) {
-            return "Указан год " + a + ", этот год високосный.";
+            result = "високосный";
         } else {
-            return "Указан год " + a + ", этот год не високосный.";
+            result = "не високосный";
         }
+        return result;
     }
 }
