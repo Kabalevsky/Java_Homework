@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abafc108-3012-4dc7-b948-3ceaeaced91e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VHwd7vs7dTDYEl3i7m1pGlFUiF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Class6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class6" />
+      <module name="Homework6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Homework6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <module name="Homework6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="Homework6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Class6" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abafc108-3012-4dc7-b948-3ceaeaced91e" name="Default Changelist" comment="" />
+      <created>1576923412335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576923412335</updated>
+      <workItem from="1576923415066" duration="13025000" />
+      <workItem from="1577010909581" duration="782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1576942770209">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1576942770209" />
+    <state x="740" y="305" key="FileChooserDialogImpl" timestamp="1576923804691">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="305" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1576923804691" />
+    <state width="1876" height="317" key="GridCell.Tab.0.bottom" timestamp="1576963499272">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1576963499272" />
+    <state width="1876" height="317" key="GridCell.Tab.0.center" timestamp="1576963499272">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1576963499272" />
+    <state width="1876" height="317" key="GridCell.Tab.0.left" timestamp="1576963499271">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1576963499271" />
+    <state width="1876" height="317" key="GridCell.Tab.0.right" timestamp="1576963499272">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1576963499272" />
+    <state x="690" y="348" key="extract.method.dialog" timestamp="1576925668745">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="690" y="348" key="extract.method.dialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576925668745" />
+    <state x="666" y="207" key="refactoring.ChangeSignatureDialog" timestamp="1576946598458">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="666" y="207" key="refactoring.ChangeSignatureDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576946598458" />
+  </component>
+</project>
